@@ -47,7 +47,7 @@ Este projeto é um **Analisador de Texto** desenvolvido em Python, que realiza d
 1. Certifique-se de que o Git está instalado. Caso não esteja, faça o download e instale pelo site oficial: [git-scm.com](https://git-scm.com/).
 2. No terminal, execute o comando para clonar o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/analisador-texto.git
+   git clone https://github.com/comais-labs/analise_textos.git
    ```
 3. Acesse o diretório do projeto:
    ```bash
